@@ -1,0 +1,15 @@
+.companyMain {
+   background: url('https://static.pexels.com/photos/305821/pexels-photo-305821.jpeg') no-repeat;
+   -webkit-background-size: 100% auto;
+   -moz-background-size: 100% auto;
+   -o-background-size: 100% auto;
+    background-size: 100% auto;
+    height: 500px; }
+.details{
+  height:500px;
+  padding-top: 100px;
+}
+
+#project1{
+  margin-top: 100px;
+}
